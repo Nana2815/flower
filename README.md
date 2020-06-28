@@ -4,7 +4,7 @@ blablabla
 
 ### Số liệu
 #### 1. Arthritis
-[https://github.com/Nana2815/flower/blob/master/615864ffe17c515.jpg](https://nana2815.github.io/flower/)
+[615864ffe17c515.jpg](https://nana2815.github.io/flower/)
 *“Viêm khớp là vấn đề sức khỏe mà những người trên 65 tuổi luôn quan tâm hàng đầu.”*
          *Marie Bernard, MD - Phó giám đốc khoa Lão hóa học viện quốc gia Maryland.*
 The CDC ước tính có đến 49,7% người 65 tuổi trở lên bị viêm khớp. Nó dẫn tới những cơn đau và giảm chất lượng sống của họ đi rất nhiều.
