@@ -1,8 +1,7 @@
-## Vòng tay cảm biến va chạm dành cho người già
+## Vòng tay "cảm biến va chạm" dành cho người cao tuổi
 
-blablabla
 
-### Số liệu
+### I. Số liệu
 #### 1. Arthritis
 <img src = "https://i.imgur.com/59IVpKx.png">
 
@@ -31,7 +30,7 @@ Chỉ trong 5 tháng đầu năm 2020, Bệnh viện Chấn thương chỉnh hì
 
 Ở người già, khi bị té ngã, những vùng thường có thể bị gãy xương là: vùng vai (gãy đầu trên xương cánh tay), cổ tay (gãy đầu dưới xương quay), lưng (gãy cốt sống lưng), mông (gãy cổ xương đùi).
 
-### Nguyên nhân:
+### II. Nguyên nhân:
 Bác sĩ Bùi Hồng Thiên Khanh, Trưởng khoa Chấn thương chỉnh hình, Bệnh viện Đại học Y Dược TP HCM.
 
 <img src = "https://i.imgur.com/3D4qlL2.png">
@@ -44,13 +43,13 @@ Người già thường dễ bị tổn thương, sức khỏe suy yếu, sa s
 
 Cộng đồng cần quan tâm chăm sóc sức khỏe cho người cao tuổi, đặc biệt là các cụ gặp vấn đề sức khỏe liên quan đến lão hóa. Chăm sóc đúng cách giúp nâng cao chất lượng cuộc sống người bệnh, giảm té ngã, tránh nguy cơ tàn tật, đồng thời giúp cải thiện tâm lý và kiểm soát triệu chứng tốt hơn.
 
-### Biện pháp
+### III. Biện pháp
 
 Điều nguy hiểm nhất đối với người già là khi họ té, ngã xuống, liệu chúng ta có thể phát hiện kịp thời để có thể đưa họ tới bệnh viện ngay lập tức không.
 
 Nếu như có một vòng đeo tay cảm biến va chạm. Khi người sử dụng té ngã hoặc ngã. Ngay lập tức vòng đeo tay sẽ cảm nhận sự va chạm và ngay lập tức báo cho chúng ta biết thông qua 1 ứng dụng thông minh trên smartphone. Khi đó ta có thể ngay lập tức ứng biến nhanh chóng và giảm thiểu những trường hợp xấu nhất.
 
-### Nguồn.
+### IV. Nguồn.
 
  - VN Express.net
  - EverydayHealth.com
@@ -58,6 +57,6 @@ Nếu như có một vòng đeo tay cảm biến va chạm. Khi người sử d�
  - Vietgiaitri.com
  - Tuoitre.vn
 
-### Support or Contact
+### V. Support or Contact
 
-Liên hệ Đột thúi: Dotthui@gmail.com
+Liên hệ: anhtna502@gmail.com
