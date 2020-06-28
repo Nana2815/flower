@@ -1,7 +1,7 @@
 ## Vòng tay cảm biến va chạm dành cho người già
 
 blablabla
-
+<img src="https://img2.thuthuatphanmem.vn/uploads/2018/11/17/anh-dep-ve-anime-phong-canh_112649614.jpg">
 ### Số liệu
 #### 1. Arthritis
 *“Viêm khớp là vấn đề sức khỏe mà những người trên 65 tuổi luôn quan tâm hàng đầu.”*
