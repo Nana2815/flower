@@ -8,7 +8,7 @@ blablabla
 *“Viêm khớp là vấn đề sức khỏe mà những người trên 65 tuổi luôn quan tâm hàng đầu.”*
          *Marie Bernard, MD - Phó giám đốc khoa Lão hóa học viện quốc gia Maryland.*
 The CDC ước tính có đến 49,7% người 65 tuổi trở lên bị viêm khớp. Nó dẫn tới những cơn đau và giảm chất lượng sống của họ đi rất nhiều.
-(https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fhoc24.vn%2Fhoi-dap%2Fquestion%2F950231.html&psig=AOvVaw0sX6lP5F1yfae6wqIGOcZ0&ust=1593408573529000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNDnltPjo-oCFQAAAAAdAAAAABAD)
+[https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fhoc24.vn%2Fhoi-dap%2Fquestion%2F950231.html&psig=AOvVaw0sX6lP5F1yfae6wqIGOcZ0&ust=1593408573529000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCNDnltPjo-oCFQAAAAAdAAAAABAD](https://nana2815.github.io/flower/)
 
 #### 2. Heart Disease
 
