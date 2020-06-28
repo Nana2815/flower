@@ -1,9 +1,10 @@
 ## Vòng tay cảm biến va chạm dành cho người già
 
 blablabla
-<img src="https://img2.thuthuatphanmem.vn/uploads/2018/11/17/anh-dep-ve-anime-phong-canh_112649614.jpg">
+
 ### Số liệu
 #### 1. Arthritis
+<img src = "https://imgur.com/59IVpKx">
 *“Viêm khớp là vấn đề sức khỏe mà những người trên 65 tuổi luôn quan tâm hàng đầu.”*
          *Marie Bernard, MD - Phó giám đốc khoa Lão hóa học viện quốc gia Maryland.*
 The CDC ước tính có đến 49,7% người 65 tuổi trở lên bị viêm khớp. Nó dẫn tới những cơn đau và giảm chất lượng sống của họ đi rất nhiều.
