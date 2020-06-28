@@ -34,7 +34,7 @@ Chỉ trong 5 tháng đầu năm 2020, Bệnh viện Chấn thương chỉnh hì
 ### Nguyên nhân:
 Bác sĩ Bùi Hồng Thiên Khanh, Trưởng khoa Chấn thương chỉnh hình, Bệnh viện Đại học Y Dược TP HCM.
 
-<img src = "blob:https://imgur.com/2620f81f-8f6e-4a6a-9a9f-b2483b5a7aee">
+<img src = "https://i.imgur.com/3D4qlL2.png">
 
 Các gia đình có người lớn tuổi nên chú ý đến vấn đề an toàn, tốt nhất không để các cụ phải di chuyển một mình ở những nơi trơn trượt hay bậc cao dễ té ngã. Ở người cao tuổi mật độ canxi giảm nên xương rất giòn dễ bị gãy.  Trường hợp không may xảy ra tai nạn, nên đến bệnh viện có chuyên khoa chấn thương chỉnh hình kiểm tra và điều trị kịp thời, tránh để lâu diễn tiến xấu. Nếu không được điều trị kịp thời, người bệnh đối mặt với nguy cơ nằm một chỗ, nhiễm trùng tiểu, nhiễm trùng phổi, loét do tì đè, ảnh hưởng nhiều đến sinh hoạt hằng ngày và chất lượng cuộc sống. Dân số Việt Nam đang già hóa nhanh, song việc chăm sóc y tế cho người lớn tuổi chưa được quan tâm đúng mức.
 
